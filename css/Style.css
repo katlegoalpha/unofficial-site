@@ -9,6 +9,7 @@ html, body{
 :root{
 
     /*colors*/
+    --testing-color: yellow;
     --text-gray: #3f4954;
     --text-light : #686666da;
     --bg-color: #0f0f0f;
